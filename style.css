@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+   background-color: rgb(106, 90, 140);
+}
+canvas {
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+  font-family: 'Lato', sans-serif;
+ 
+
+}
